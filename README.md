@@ -1,1 +1,1 @@
-# OWC code for manuscript: A Gene Based Optimally Weighted Combination Test Using GWAS Summary Data"
+# OWC code for manuscript: A Gene Based Combination Test Using GWAS Summary Data"
